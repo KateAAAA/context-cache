@@ -9,9 +9,10 @@
       "email": "sonicgd@gmail.com"
     }
   ],
-  "minimum-stability": "stable",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
   "require": {
-    "sitkoru/yandex-direct-api": "^2017.9.2",
+    "sitkoru/yandex-direct-api": "dev-dev",
     "googleads/googleads-php-lib": "^30.0.0",
     "mongodb/mongodb": "^1.1.2",
     "psr/log": "^1.0"
